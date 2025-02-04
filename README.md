@@ -1,1 +1,42 @@
-# DSA-Fundamentals-Patterns
+# Pattern Problems in Java 🎨
+
+This repository contains a list of **important pattern problems** in Java along with **practice links, solutions**.
+
+---
+
+## 📖 List of Pattern Problems
+
+| SI. No. | Pattern | 🏆 Practice | 💡 Solution |
+|---------|---------|------------|------------|
+| 1 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P1.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 2 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P2.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 3 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P3.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 4 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P4.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 5 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P5.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 6 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P6.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 7 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P7.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 8 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P8.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 9 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P9.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 10 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P10.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 11 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P11.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 12 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P12.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 13 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P13.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 14 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P14.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 15 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P15.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 16 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P16.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 17 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P17.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 18 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P18.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 19 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P19.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 20 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P20.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 21 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P21.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 22 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P22.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+
+---
+
+## 📌 Contribution
+Want to contribute? Fork this repository, add more pattern problems or optimize solutions, and submit a **pull request**. 🚀
+
+---
+
+## 📜 License
+This project is open-source and available under the MIT License.
