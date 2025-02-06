@@ -8,7 +8,7 @@ This repository contains a list of **important pattern problems** in Java along 
 
 | SI. No. | Pattern | 🏆 Practice | 💡 Solution |
 |---------|---------|------------|------------|
-| 1 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P1.png"> | 🏆 [Link](#) | 💡 [Link](#) |
+| 1 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P1.png"> | 🏆 [Link](https://www.naukri.com/code360/problems/n-forest_6570177?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems) | 💡 [Link](https://github.com/safwannasir49/DSA-Fundamentals-Patterns/blob/main/Pattern%201/Pattern1.java) |
 | 2 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P2.png"> | 🏆 [Link](#) | 💡 [Link](#) |
 | 3 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P3.png"> | 🏆 [Link](#) | 💡 [Link](#) |
 | 4 | <img src="https://static.takeuforward.org/wp/uploads/2022/08/P4.png"> | 🏆 [Link](#) | 💡 [Link](#) |
